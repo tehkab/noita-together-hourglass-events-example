@@ -1,0 +1,6 @@
+<Mod
+	name="test NT hourglass handler"
+	description="Test adding NT hourglass effect handlers. Try whiskey or pea soup (pea soup is sticky, so you might need two flasks worth)"
+	request_no_api_restrictions="0"
+> 
+</Mod>
