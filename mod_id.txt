@@ -1,1 +1,1 @@
-test-nt-add-hourglass
+noita-together-hourglass-events-example
